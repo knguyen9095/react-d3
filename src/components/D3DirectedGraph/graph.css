@@ -1,0 +1,15 @@
+line {
+  stroke: #1a3177;
+  stroke-opacity: 0.3;
+  stroke-width: 3px;
+}
+
+circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+text {
+  font: 10px sans-serif;
+  color: black;
+}

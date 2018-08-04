@@ -1,0 +1,11 @@
+{
+  "nodes": [
+    { "id": "TO", "group": 1 },
+    { "id": "FROM", "group": 1 },
+    { "id": "YO", "group": 1 }
+  ],
+  "links": [
+    { "source": "FROM", "target": "TO", "value": 1 },
+    { "source": "FROM", "target": "YO", "value": 1 }
+  ]
+}
